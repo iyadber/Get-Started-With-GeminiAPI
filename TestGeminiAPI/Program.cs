@@ -4,7 +4,7 @@ using Mscc.GenerativeAI;
 try
 {
     // Replace with your actual API key
-    string apiKey = "AIzaSyDRp8FVpuHZYwX1XG-SWcMHlAkOpkizuTQ";
+    string apiKey = "Your-API-KEY";
 
     // Start a conversation loop
     Console.WriteLine("Gemini AI - Type 'exit' to quit");
